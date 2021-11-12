@@ -1,0 +1,7 @@
+GET /api/greeting/{name}
+GET /api/hello
+GET /api/now
+
+GET /q/health/live
+GET /q/health/ready
+GET /q/metrics
